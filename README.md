@@ -11,3 +11,5 @@ If you want to use Vuforia just insert the ARCamera inside the AR Session Origin
 You can test the application on both Android and iOS, just switch the platform at build time
 ## Video example
 https://www.youtube.com/shorts/KC0RXkzxWNg This is an example of the app.
+## References
+Aurelio Puerta Martín, AR Indoor Navigation (2020), GittHub repository, https://github.com/Aupuma/AR-Indoor-Navigation
